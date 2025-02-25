@@ -223,11 +223,22 @@ main{
     padding: 30;
 }
 
+
+#metis{
+    display: flex;
+    height: 450;
+    width: 1500;
+    align-items:center ;  
+    background-color: rgb(49, 8, 1);
+    margin: 20;
+    color: rgb(180, 12, 0);
+    padding: 30;
+}
+
+
 #gif{
     height: 300;
     width: 500;
 
 }
-
-
 
