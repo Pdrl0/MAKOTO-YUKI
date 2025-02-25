@@ -21,6 +21,19 @@ body{
     justify-content: center;
 }
 
+#velvet{
+    
+    background-color: rgb(6, 41, 196);
+    margin: 0;
+    padding:10px;
+    height: 90;
+    height: 320;
+    width: 1500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #rodape{
     background-color:rgb(255, 0, 0);
     height: 50;
